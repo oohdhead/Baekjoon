@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-//10650
+// 10650
 int main()
 {
     int N;
